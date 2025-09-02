@@ -8,6 +8,7 @@ Desenvolvimento de projeto com sensor ultrassônico <i>JSN-SR04T</i> para mediç
 ✅ Código inicial utilizando o Sensor Ultrassônico HC-SR04:
 https://www.makerhero.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/?srsltid=AfmBOorV8Kk0vW5b5VTlsjOEHVSQiYrYl3kehwFIULlc5DLeviVT2hGr<br>
 <br>
+<img src="https://github.com/cwbads22/projeto_arduino_01/blob/main/hc_sr04.png"/>
 - Adaptado para não precisar utilizar a biblioteca <i>ultrasonic.h</i><br>
 📁/ultra01
 <br>
@@ -17,19 +18,20 @@ https://www.makerhero.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/?srsltid=A
 📁/med_dist_v0 - desenvolvimento inicial;<br>
 📁/med_dist_v1 - ajustes menores;<br>
 📁/med_dist_v3 - implementação de função de aviso de limite de altura de nivel do recipiente;<br>
-📁/med_dist_vfinal - concelamento da leitura contínua do sensor - só atualiza a leitura se houver mudança no nível;<br>
+📁/med_dist_vfinal - cancelamento da leitura contínua do sensor - só atualiza a leitura se houver mudança no nível;<br>
 <br>
 <b>Proximos passos e implementações</b><br>
 <br>
 O JSN-SR04T é uma evolução muito interessante do HC-SR04:<br>
 🌟 Vantagens do JSN-SR04T:<br>
 <br>
-À prova d'água (IP67): Perfeito para ambientes com líquidos!<br>
-Cabo de 2,5m: Sensor pode ficar longe da placa de controle<br>
-Mais estável: Menos interferência e ruído<br>
-Mesmo protocolo: Código praticamente idêntico ao HC-SR04<br>
+- À prova d'água (IP67): Perfeito para ambientes com líquidos!<br>
+- Cabo de 2,5m: Sensor pode ficar longe da placa de controle<br>
+- Mais estável: Menos interferência e ruído<br>
+- Mesmo protocolo: Código praticamente idêntico ao HC-SR04<br>
 <br>
 🔌 Observações:<br>
+<br>
 O código vai funcionar quase sem modificação no JSN-SR04T. A pinagem e comunicação são idênticas:<br>
 <br>
 VCC → 5V<br>
@@ -39,8 +41,8 @@ Echo → Pino 5<br>
 <br>
 📝 Futuras implentações:<br>
 <br>
-Sistema de alarmes com buzzer/LEDs<br>
-Display para visualização local<br>
-WiFi para monitoramento remoto<br>
-Múltiplos recipientes com EEPROM<br>
+- Sistema de alarmes com buzzer/LEDs<br>
+- Display para visualização local<br>
+- WiFi para monitoramento remoto<br>
+- Múltiplos recipientes com EEPROM<br>
 
