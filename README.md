@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="80" height="80"/>
+  <img src="https://isocpp.org/assets/images/cpp_logo.png" title="C++" alt="C++" width="80" height="80"/>
+ 
 </div>
 <br>
 
