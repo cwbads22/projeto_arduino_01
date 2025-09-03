@@ -8,7 +8,8 @@
 Desenvolvimento de projeto com sensor ultrassônico <i>JSN-SR04T</i> para medição de altura de líquido num recipiente qualquer.<br>
 <br>
 ✅ Código inicial utilizando o Sensor Ultrassônico HC-SR04:
-https://www.makerhero.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/?srsltid=AfmBOorV8Kk0vW5b5VTlsjOEHVSQiYrYl3kehwFIULlc5DLeviVT2hGr<br>
+<a href="https://www.makerhero.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/?srsltid=AfmBOorV8Kk0vW5b5VTlsjOEHVSQiYrYl3kehwFIULlc5DLeviVT2hGr">Link</a>
+<br>
 <br>
 <img src="https://github.com/cwbads22/projeto_arduino_01/blob/main/hc_sr04.png"/>
 - Adaptado para não precisar utilizar a biblioteca <i>ultrasonic.h</i><br>
