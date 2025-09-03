@@ -21,7 +21,7 @@ Desenvolvimento de projeto com sensor ultrassônico <i>JSN-SR04T</i> para mediç
 📁/med_dist_v0 - desenvolvimento inicial;<br>
 📁/med_dist_v1 - ajustes menores;<br>
 📁/med_dist_v3 - implementação de função de aviso de limite de altura de nivel do recipiente;<br>
-📁/med_dist_vfinal - cancelamento da leitura contínua do sensor - só atualiza a leitura se houver mudança no nível;<br>
+<a href="https://github.com/cwbads22/projeto_arduino_01/tree/main/med_dist_vfinal">📁/med_dist_vfinal</a> - cancelamento da leitura contínua do sensor - só atualiza a leitura se houver mudança no nível;<br>
 <br>
 <b>Proximos passos e implementações</b><br>
 <br>
