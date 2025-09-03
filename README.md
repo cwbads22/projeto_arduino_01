@@ -13,14 +13,14 @@ Desenvolvimento de projeto com sensor ultrassônico <i>JSN-SR04T</i> para mediç
 <br>
 <img src="https://github.com/cwbads22/projeto_arduino_01/blob/main/hc_sr04.png"/>
 - Adaptado para não precisar utilizar a biblioteca <i>ultrasonic.h</i><br>
-📁/ultra01
+<a href="https://github.com/cwbads22/projeto_arduino_01/tree/main/ultra01">📁/ultra01</a>
 <br>
 <br>
 🎯 Versões do código com implementações até a versão final:<br>
 <br>
-📁/med_dist_v0 - desenvolvimento inicial;<br>
-📁/med_dist_v1 - ajustes menores;<br>
-📁/med_dist_v3 - implementação de função de aviso de limite de altura de nivel do recipiente;<br>
+<a href="https://github.com/cwbads22/projeto_arduino_01/tree/main/med_dist_v0">📁/med_dist_v0</a> - desenvolvimento inicial;<br>
+<a href="https://github.com/cwbads22/projeto_arduino_01/tree/main/med_dist_v1">📁/med_dist_v1</a> - ajustes menores;<br>
+<a href="https://github.com/cwbads22/projeto_arduino_01/tree/main/med_dist_v3">📁/med_dist_v3<a> - implementação de função de aviso de limite de altura de nivel do recipiente;<br>
 <a href="https://github.com/cwbads22/projeto_arduino_01/tree/main/med_dist_vfinal">📁/med_dist_vfinal</a> - cancelamento da leitura contínua do sensor - só atualiza a leitura se houver mudança no nível;<br>
 <br>
 <b>Proximos passos e implementações</b><br>
